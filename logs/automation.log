@@ -1,0 +1,30 @@
+2026-11-02 11:42:34 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\HP\eclipse-workspace\framework\master.xml] otherwise TestNG may fail or not work as expected.
+2026-11-02 11:43:51 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\HP\eclipse-workspace\framework\master.xml] otherwise TestNG may fail or not work as expected.
+2026-11-02 11:45:49 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\HP\eclipse-workspace\framework\master.xml] otherwise TestNG may fail or not work as expected.
+2026-11-02 11:45:57 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-11-02 11:45:57 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2026-11-02 11:45:58 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2026-11-02 11:45:58 INFO  TC001_AccountRegistrationTest:30 - Providing customer details...
+2026-11-02 11:45:58 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2026-11-02 11:46:00 INFO  TC001_AccountRegistrationTest:49 - Test passed
+2026-11-02 11:46:00 INFO  TC001_AccountRegistrationTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2026-11-02 11:46:02 INFO  TC002_LoginTest:19 - **** Starting TC_002_LoginTest  ****
+2026-11-02 11:46:02 INFO  TC002_LoginTest:26 - clicked on myaccount link on the home page..
+2026-11-02 11:46:02 INFO  TC002_LoginTest:28 - clicked on login link under myaccount..
+2026-11-02 11:46:02 INFO  TC002_LoginTest:32 - Entering valid email and password..
+2026-11-02 11:46:03 INFO  TC002_LoginTest:36 - clicked on ligin button..
+2026-11-02 11:46:05 INFO  TC002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2026-11-02 13:56:04 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\HP\eclipse-workspace\framework\master.xml] otherwise TestNG may fail or not work as expected.
+2026-11-02 13:56:11 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-11-02 13:56:11 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2026-11-02 13:56:11 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2026-11-02 13:56:11 INFO  TC001_AccountRegistrationTest:30 - Providing customer details...
+2026-11-02 13:56:15 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2026-11-02 13:56:15 INFO  TC001_AccountRegistrationTest:49 - Test passed
+2026-11-02 13:56:15 INFO  TC001_AccountRegistrationTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2026-11-02 13:56:17 INFO  TC002_LoginTest:19 - **** Starting TC_002_LoginTest  ****
+2026-11-02 13:56:18 INFO  TC002_LoginTest:26 - clicked on myaccount link on the home page..
+2026-11-02 13:56:18 INFO  TC002_LoginTest:28 - clicked on login link under myaccount..
+2026-11-02 13:56:18 INFO  TC002_LoginTest:32 - Entering valid email and password..
+2026-11-02 13:56:20 INFO  TC002_LoginTest:36 - clicked on ligin button..
+2026-11-02 13:56:20 INFO  TC002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
